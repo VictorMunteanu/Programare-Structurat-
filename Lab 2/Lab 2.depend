@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582891152 source:g:\prog struct\lab 2\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
