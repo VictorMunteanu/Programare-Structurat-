@@ -31,7 +31,6 @@ int main()
     do
     {
         system("cls");
-        cout << "\n\tProiect numarul 3 elaborat de Bazaochi Dumitru" << endl;
         cout << "1. Minumul si maximul" << endl;
         cout << "2. Media" << endl;
         cout << "3. Ordonarea notelor (crescator)" << endl;
